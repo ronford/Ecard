@@ -8,7 +8,7 @@ body {
 
 #main {
   width: 820px;
-  height: 1200px;
+  height: 900px;
   margin: auto;
   position: relative;
   top: 30px;
@@ -69,6 +69,7 @@ left: 100px;
 
 .container_2 {
   width: 600px;
+  height: 578px;
   float: left;
   background-color: #f3f3f3;
 }
@@ -112,6 +113,7 @@ left: 100px;
   font-family:Helvetica;
   color: #3c3333;
 }
+
 
 .blog ul {
   float: left;
